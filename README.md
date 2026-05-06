@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100=0f3460&height=200&text=Hello!%20I'm%20Yuna!&animation=fadeIn&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20Firmware%20Developer&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hello!%20I'm%20Yuna!&animation=fadeIn&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20Firmware%20Developer&descAlignY=58&descSize=18" />
 </div>
 
 <br/>
@@ -68,5 +68,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </div>
