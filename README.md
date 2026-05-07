@@ -18,39 +18,46 @@
 <div align="center">
   <h3>🛠️ Tech Stacks</h3>
 
-  <h4>⚙️ Embedded & Systems</h4>
+  <h4>💻 Languages</h4>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FreeRTOS-8BC500?style=for-the-badge&logo=freertos&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black"/>
-
-  <br/><br/>
-
-  <h4>🌐 Full-Stack & Cloud</h4>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white"/>
 
   <br/><br/>
 
-  <h4>🔧 Tools & DevOps</h4>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=Github&logoColor=white"/>
+  <h4>⚙️ Embedded & IoT</h4>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=Espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FreeRTOS-8BC500?style=for-the-badge&logo=freertos&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firmware-Development-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Sensor-Integration-6A5ACD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Real--Time-Systems-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=PlatformIO&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+
+  <br/><br/>
+
+  <h4>🧠 Systems</h4>
+  <img src="https://img.shields.io/badge/Low--Level-Neural%20Network-4B0082?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Matrix-Optimization-008B8B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SIMD-DC143C?style=for-the-badge"/>
+
+  <br/><br/>
+
+  <h4>🌐 Full-Stack & AI</h4>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=Supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=OpenAI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prompt-Engineering-FF1493?style=for-the-badge"/>
+
+  <br/><br/>
+
+  <h4>🔧 Tools</h4>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
-</div>
-
----
-
-<div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Yuna616&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuna616&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </div>
 
 ---
@@ -63,10 +70,4 @@
   <a href="mailto:botw461@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </div>
