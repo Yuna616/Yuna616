@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Real--Time-Systems-FF6B6B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=PlatformIO&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black"/>
   <br/><br/>
 
   <h4>🧠 Systems</h4>
@@ -46,18 +46,8 @@
 
   <br/><br/>
 
-  <h4>🌐 Full-Stack & AI</h4>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=Supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=OpenAI&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prompt-Engineering-FF1493?style=for-the-badge"/>
-
   <br/><br/>
 
-  <h4>🔧 Tools</h4>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"/>
 </div>
 
 ---
